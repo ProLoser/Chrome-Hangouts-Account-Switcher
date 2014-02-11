@@ -1,0 +1,24 @@
+.sunken-menu-group.omnibox-menu a.sunken-menu-item {
+    margin-bottom: 0;
+    padding: 5px 10px;
+    line-height: 1;
+}
+
+.github-omnibox-sidebar-item .octicon img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: 0.6;
+    height: 16px;
+    width: 16px;
+    margin-right: 4px;
+    margin-bottom: 1px;
+    -webkit-transition: all ease 0.5s;
+    transition: all ease 0.5s;
+	-webkit-backface-visibility: hidden; /* Prevents blurring */
+}
+
+.github-omnibox-sidebar-item:hover .octicon img {
+	opacity: 1;
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
