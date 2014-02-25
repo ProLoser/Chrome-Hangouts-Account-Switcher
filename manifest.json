@@ -1,7 +1,7 @@
 {
-  "name": "Hangouts Account Switcher",
+  "name": "Account Switcher for Google Hangouts™",
   "description" : "Adds ability to switch Google account when joining a Hangout",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "content_scripts": [
     {
       "matches": ["*://plus.google.com/hangouts/_/*"],
