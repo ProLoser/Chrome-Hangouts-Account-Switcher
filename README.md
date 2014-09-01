@@ -6,4 +6,4 @@ Allows you to switch Google accounts when trying to connect to a hangout
 
 ## Screenshot
 
-![Screenshot](![Logo](http://proloser.github.io/Chrome-Hangouts-Account-Switcher/assets/Screenshot.png))
+![Screenshot](http://proloser.github.io/Chrome-Hangouts-Account-Switcher/assets/Screenshot.png)
